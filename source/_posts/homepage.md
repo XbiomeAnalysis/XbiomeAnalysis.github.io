@@ -1,8 +1,8 @@
 ---
-title: Homepage of SOP
+title: SOPs
 ---
 
-Welcome to the **Homepage** for in-house data analysis SOP. It contains several pipelines like the following.
+Welcome to the **Homepage** for in-house data analysis SOPs. It contains several pipelines like the following.
 
 + XMAS tutorial
 
