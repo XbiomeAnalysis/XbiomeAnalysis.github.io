@@ -4,9 +4,9 @@
 
 # Site
 title: XbiomeAnalysis
-subtitle: 'XbiomeAnalysis'
-description: 'XbiomeAnalysis'
-keywords:
+subtitle: 'Data analysis SOP in Xbiome'
+description: 'in-house data analysis pipeline'
+keywords: 'microbiome'
 author: Hua Zou
 language: en
 timezone: ''
