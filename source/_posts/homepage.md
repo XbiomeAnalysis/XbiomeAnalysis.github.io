@@ -1,5 +1,5 @@
 ---
-title: SOPs
+title: Homepage of analysis SOPs
 ---
 
 Welcome to the **Homepage** for in-house data analysis SOPs. It contains several pipelines like the following.
