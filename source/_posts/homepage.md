@@ -46,4 +46,8 @@ Welcome to the **Homepage** for in-house data analysis SOPs. It contains several
 
 **[Omics analysis SOP](https://xbiomeanalysis.github.io/Omics_analysis/)** providing a demo, helps users to do **Omics-data analysis**.
 
+## RNA-seq pipeline SOP
+
+**[RNA-seq pipeline SOP](https://xbiomeanalysis.github.io/RNAseq_pipeline/)** providing a demo, helps users to do **RNA-seq data analysis**.
+
 
