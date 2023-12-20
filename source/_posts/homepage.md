@@ -16,6 +16,8 @@ Welcome to the **Homepage** for in-house data analysis SOPs. It contains several
 
 + Omics analysis SOP
 
++ RNA-seq pipeline SOP
+
 
 ## XMAS tutorial
 
